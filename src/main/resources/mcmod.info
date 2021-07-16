@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hitboxrebind",
+  "name": "Hitbox Rebind",
+  "description": "Allows rebinding of F3+B.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RegexMC"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
